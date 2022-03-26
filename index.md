@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/8.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
