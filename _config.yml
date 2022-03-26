@@ -3,7 +3,7 @@ logo: "images/debbie pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
   <br>Data Scientist<br>
   <br><br>
-  <a href="https://www.linkedin.com/in/debanjalibasu/">View My LinkedIn Profile</a> <br>
+  <a href="https://www.linkedin.com/in/debanjalibasu/">View My LinkedIn Profile</a> 
   <a href="https://medium.com/@debanjalibasu">View My Medium Profile</a>
   
 theme: jekyll-theme-minimal
