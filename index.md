@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects 
 
-[Project 1 Title](/sample_page)
+[Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
