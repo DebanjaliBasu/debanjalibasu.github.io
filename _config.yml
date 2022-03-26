@@ -1,12 +1,9 @@
 title: Debanjali Basu # your name (or website title) here
 logo: "images/debbie pic.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  #First description 
+description: > # your text below (remove <br> elements if you don't need line breaks) 
   <br>Data Scientist<br>
-  #Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/debanjalibasu/">View My LinkedIn Profile</a> 
-  <br>
+  <a href="https://www.linkedin.com/in/debanjalibasu/">View My LinkedIn Profile</a> <br>
   <a href="https://github.com/DebanjaliBasu">View My Github Profile</a>
   
 theme: jekyll-theme-minimal
