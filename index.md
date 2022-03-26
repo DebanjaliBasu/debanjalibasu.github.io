@@ -8,7 +8,7 @@
 <img src="images/8.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Diabetes Data Analysis](https://debanjalibasu.github.io/Diabetes-data-analysis/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
