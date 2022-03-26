@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
-<img src="images/8.png"/>
+<img src="images/cancer_icon.png"/>
 
 ---
 [Diabetes Data Analysis](https://debanjalibasu.github.io/Diabetes-data-analysis/)
