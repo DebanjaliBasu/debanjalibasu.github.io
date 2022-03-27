@@ -13,7 +13,7 @@
 
 ---
 [Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="imagescamera-g4183d3731_640.png?raw=true"/>
 
 ---
 
