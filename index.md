@@ -21,6 +21,41 @@
 [Time Series Projects](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Time%20series/forecasting)
 <img src="images/growth-g23cff77c4_640.png"/>
 
+---
+
+[Projects on Random Forest Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/Random%20Forest)
+
+---
+
+[Projects on Multiple Linear Regression Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/MLR)
+
+---
+
+[Projects on KNN Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/KNN)
+
+---
+
+[Projects on Decision Tree Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/Decision%20Tree)
+
+---
+
+[Projects on Clustering Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/Clustering)
+
+---
+
+[Projects on Naive Bayes Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/Naive%20bayes)
+
+---
+
+[Projects on PCA Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/PCA)
+
+---
+
+[Projects on SVM Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/SVM)
+
+
+
+
 ### Articles
 
 - [Life cycle of a Data Science Project](https://medium.com/p/87a370e9f91f)
