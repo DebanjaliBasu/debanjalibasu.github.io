@@ -14,7 +14,7 @@
 ---
 [Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)<br>
 [Movie recommendation application](https://movie-recommend-basu.herokuapp.com/)
-<img src="images/camera-g4183d3731_640.png"/>
+<img src="images/movie.jpg"/>
 
 ---
 
