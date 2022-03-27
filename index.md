@@ -9,7 +9,7 @@
 
 ---
 [Diabetes Data Analysis](https://github.com/DebanjaliBasu/Diabetes-data-analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/diabetes-gcf63f357b_640.png"/>
 
 ---
 [Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)
