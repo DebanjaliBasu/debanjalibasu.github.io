@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://medium.com/p/5d719dab0ae4)
+[Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
