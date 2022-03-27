@@ -18,6 +18,9 @@
 
 ---
 
+[Time Series Projects](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Time%20series/forecasting)
+<img src="images/growth-g23cff77c4_640.png"/>
+
 ### Articles
 
 - [Life cycle of a Data Science Project](https://medium.com/p/87a370e9f91f)
