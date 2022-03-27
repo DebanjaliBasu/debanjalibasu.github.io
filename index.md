@@ -20,7 +20,7 @@
 ### Articles
 
 - [Life cycle of a Data Science Project](https://medium.com/p/87a370e9f91f)
-- [Project 2 Title](http://example.com/)
+- [Why you should use Swarmplots for Data Visualization](https://debanjalibasu.medium.com/why-you-should-use-swarmplots-for-data-visualization-58ee9c832a92)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
