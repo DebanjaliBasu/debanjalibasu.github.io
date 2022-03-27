@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Articles
 
-- [Project 1 Title](http://example.com/)
+- [Life cycle of a Data Science Project](https://medium.com/p/87a370e9f91f)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
