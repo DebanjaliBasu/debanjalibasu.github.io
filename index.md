@@ -5,16 +5,16 @@
 ### Machine Learning Projects 
 
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
-<img src="images/cancer_icon.png"/>
+<img src="images/pink-ribbon-gf2c5bfc32_640.jpg"/>
 
 ---
 [Diabetes Data Analysis](https://github.com/DebanjaliBasu/Diabetes-data-analysis)
 <img src="images/diabetes-gcf63f357b_640.png"/>
 
 ---
-[Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)
+[Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)<br>
 [Movie recommendation application](https://movie-recommend-basu.herokuapp.com/)
-<img src="imagescamera-g4183d3731_640.png"/>
+<img src="images/camera-g4183d3731_640.png"/>
 
 ---
 
