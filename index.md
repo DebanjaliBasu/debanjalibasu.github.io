@@ -8,7 +8,7 @@
 <img src="images/cancer_icon.png"/>
 
 ---
-[Diabetes Data Analysis](https://debanjalibasu.github.io/Diabetes-data-analysis/)
+[Diabetes Data Analysis](https://github.com/DebanjaliBasu/Diabetes-data-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
