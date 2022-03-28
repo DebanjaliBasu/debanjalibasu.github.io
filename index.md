@@ -7,19 +7,15 @@
 [Supermarket Sales Data Analysis](https://www.kaggle.com/code/debanjalibasu/supermarket-data-analysis)
 <img src="images/supermarket.jpg"/>
 
-
 ---
+
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
 <img src="images/pink-ribbon-gf2c5bfc32_640.jpg"/>
 
 ---
+
 [Diabetes Data Analysis](https://github.com/DebanjaliBasu/Diabetes-data-analysis)
 <img src="images/diabetes-gcf63f357b_640.png"/>
-
----
-[Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)<br>
-[Movie recommendation application](https://movie-recommend-basu.herokuapp.com/)
-<img src="images/movie.jpg"/>
 
 ---
 
@@ -28,6 +24,11 @@
 
 ---
 
+[Movie recommendation engine - content based](https://www.kaggle.com/code/debanjalibasu/easy-movie-recommendation-engine-content-based)<br>
+[Movie recommendation application](https://movie-recommend-basu.herokuapp.com/)
+<img src="images/movie.jpg"/>
+
+---
 [Projects on Random Forest Algorithm](https://github.com/DebanjaliBasu/Projects-Data-science/tree/main/Machine%20Learning%20Projects/Random%20Forest)
 
 ---
