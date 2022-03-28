@@ -5,6 +5,8 @@
 ### Data Analysis Projects 
 
 [Supermarket Sales Data Analysis](https://www.kaggle.com/code/debanjalibasu/supermarket-data-analysis)
+<img src="images/supermarket.jpg"/>
+
 
 ---
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
