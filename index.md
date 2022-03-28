@@ -2,8 +2,11 @@
 
 ---
 
-### Machine Learning Projects 
+### Data Analysis Projects 
 
+[Supermarket Sales Data Analysis](https://www.kaggle.com/code/debanjalibasu/supermarket-data-analysis)
+
+---
 [Breast Cancer Data Visualization](https://medium.com/p/5d719dab0ae4)
 <img src="images/pink-ribbon-gf2c5bfc32_640.jpg"/>
 
