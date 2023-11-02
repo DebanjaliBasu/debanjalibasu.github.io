@@ -4,6 +4,9 @@
 
 ### Data Analysis Projects 
 
+[Loan Portfolio Analysis - t test]([https://www.kaggle.com/code/debanjalibasu/supermarket-data-analysis](https://github.com/DebanjaliBasu/Projects-Data-science/blob/main/Statistical%20Hypothesis%20tests/Loan%20Portfolio%20Analysis%20-%20t%20test/Loan%20portfolio%20analysis.ipynb))
+<img src="images/loan.jpg"/>
+
 [Supermarket Sales Data Analysis](https://www.kaggle.com/code/debanjalibasu/supermarket-data-analysis)
 <img src="images/supermarket.jpg"/>
 
